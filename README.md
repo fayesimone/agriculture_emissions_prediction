@@ -1,0 +1,2 @@
+# DATASCI207_finalproject_Likhareva_Titchenal_Tripoli_Zhao
+Final project repo for MIDS DATASCI207
